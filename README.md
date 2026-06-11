@@ -22,6 +22,7 @@ If you want to support this one man project please sponsor this project: https:/
 ## Quick start
 
 1. Download the latest release for your platform
+https://github.com/emberscribe/hobnob/releases
 2. Launch Hobnob — the first-run wizard will guide you through setup
 3. Start recording your next meeting
 
