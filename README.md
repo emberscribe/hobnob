@@ -1,16 +1,13 @@
 # Meet Hobnob!
-
-<img width="512" height="512" alt="mascot" src="https://github.com/user-attachments/assets/3f246f62-c449-4524-98d5-e1508d39f001" />
-
 **Local meeting notes. No cloud or internet required.**
+
+<img width="1040" height="692" alt="hobnob-marketing" src="https://github.com/user-attachments/assets/8e77d8a1-be72-40fa-9a53-ea6c969c7bd3" />
 
 Hobnob records meetings, transcribes them locally with Whisper, labels speakers, and summarizes everything with a bundled LLM — all on your machine. Nothing leaves your laptop.
 
 If you want to support this single developer project consider doing so on Github: https://github.com/sponsors/emberscribe
 
 ## Features
-
-<img width="1038" height="686" alt="image" src="https://github.com/user-attachments/assets/1918af7d-6a83-448b-9df5-2d695b2738e0" />
 
 - **Live captions** — real-time transcription as you speak
 - **BYOM** — Bring your own model. Set each model to your liking
