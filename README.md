@@ -6,6 +6,8 @@
 
 Hobnob records meetings, transcribes them locally with Whisper, labels speakers, and summarizes everything with a bundled LLM — all on your machine. Nothing leaves your laptop.
 
+If you want to support this one man project please sponsor this project: https://github.com/sponsors/emberscribe
+
 ## Features
 
 - **Live captions** — real-time transcription as you speak
